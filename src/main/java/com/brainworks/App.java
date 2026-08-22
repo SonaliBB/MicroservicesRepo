@@ -23,6 +23,9 @@ public class App {
         int b=10;
         System.out.println(b);
 
+           String s="sona";
+           System.out.println(s);
+
     }
 }
 
