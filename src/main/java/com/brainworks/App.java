@@ -19,6 +19,7 @@ public class App
         System.out.println(a+a);
 
 
+        System.out.println(a*a);
 
 
     }
