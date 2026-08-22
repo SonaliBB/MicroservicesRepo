@@ -20,7 +20,9 @@ public class App
 
 
         System.out.println(a*a);
-
+        
+        int b;
+        System.out.println(b);
 
     }
 
