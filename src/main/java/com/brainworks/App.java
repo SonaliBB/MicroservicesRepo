@@ -18,7 +18,6 @@ public class App
         int a=20;
         System.out.println(a+a);
 
-        System.out.println("commining from intellij");
 
 
 
