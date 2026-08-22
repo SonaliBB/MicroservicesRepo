@@ -28,7 +28,7 @@ public class App
            System.out.println(s);
 
         //learning git conflict
-         System.out.println("from github rising conflict");
+         System.out.println("from github rising conflict  ");
         
     }
 
