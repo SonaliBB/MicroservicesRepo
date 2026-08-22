@@ -27,6 +27,9 @@ public class App
            String s="sona";
            System.out.println(s);
 
+        //learning git conflict
+         System.out.println("from github rising conflict");
+        
     }
 
 
