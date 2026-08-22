@@ -16,14 +16,11 @@ public class App
 
         System.out.println("doing by self");
         int a=20;
-
-        System.out.println(a+a);
         System.out.println(a+a);
 
-        System.out.println(a*a);
+        System.out.println("commining from intellij");
 
 
-    }
 
 
-}
+
