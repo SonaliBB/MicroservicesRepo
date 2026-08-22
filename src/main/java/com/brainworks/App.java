@@ -20,7 +20,10 @@ public class App
 
         System.out.println("commining from intellij");
 
-
+        System.out.println(a*a);
+        
+        int b;
+        System.out.println(b);
 
 
 
