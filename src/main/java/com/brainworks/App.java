@@ -19,10 +19,14 @@ public class App
         System.out.println(a+a);
 
         System.out.println("commining from intellij");
-
-
-
+        forPull();
     }
-
-
+    public static void forPull()
+    {
+        System.out.println("for pull request");
+    }
 }
+
+
+
+
