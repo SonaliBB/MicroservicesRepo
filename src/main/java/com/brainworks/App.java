@@ -21,7 +21,7 @@ public class App
 
         System.out.println(a*a);
         
-        int b;
+        int b=5;
         System.out.println(b);
 
            String s="sona";
