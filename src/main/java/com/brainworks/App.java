@@ -21,8 +21,16 @@ public class App
         System.out.println("changed from subbranch");
 
         System.out.println(a*a);
+        
+        int b;
+        System.out.println(b);
 
+           String s="sona";
+           System.out.println(s);
 
+        //learning git conflict
+         System.out.println("from github rising conflict  ");
+         System.out.println(s);
     }
 
 
