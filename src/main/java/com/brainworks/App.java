@@ -19,12 +19,19 @@ public class App
         System.out.println(a+a);
 
         System.out.println("commining from intellij");
+        System.out.println("from arru branch");
+
+
+
+
         forPull();
     }
     public static void forPull()
     {
         System.out.println("for pull request");
     }
+
+
 }
 
 
