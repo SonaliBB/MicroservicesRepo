@@ -18,16 +18,15 @@ public class App
         int a=20;
         System.out.println(a+a);
 
-
-        System.out.println(a*a);
-        
-        int b=5;
-        System.out.println(b);
-
-           String s="sona";
-           System.out.println(s);
-
+        System.out.println("commining from intellij");
+        forPull();
     }
-
-
+    public static void forPull()
+    {
+        System.out.println("for pull request");
+    }
 }
+
+
+
+
