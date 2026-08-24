@@ -10,7 +10,7 @@ public class App
     {
 
         System.out.println("changed by sona1999");
-        System.out.println("to check merge conflict");
+        System.out.println("to check merge message");
         
 }
 
