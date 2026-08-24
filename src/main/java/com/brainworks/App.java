@@ -16,6 +16,7 @@ public class App
         System.out.println("added var"+add);
 
         System.out.println("In b1");
+        System.out.println("added in main");
     }
 
 
