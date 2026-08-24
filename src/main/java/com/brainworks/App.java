@@ -6,13 +6,11 @@ package com.brainworks;
  */
 public class App 
 {
-    public static void main( String[] args ) {
-     int a=20;
-     int b=20;
-     System.out.println(a+b);
-    }
+    public static void main( String[] args )
+    {
+   System.out.println("hello world");
 }
-
+}
 
 
 
